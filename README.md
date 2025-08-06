@@ -2,16 +2,17 @@
 
 ### About me
 
-I'm a software developer mainly focused on backend techniques. I used to be working on web applications in commercial environments for many years but also expanding my skill set to LLM-related topics recently.
+I'm a software developer (and proud to be a Pythonista for more than 10 years) mainly focused on backend techniques. I used to be working on web applications in commercial environments for many years but also expanding my skill set to LLM-related topics recently.
 
-I'm currently maintaining my blog "BlueberryPy" which is esstentially one of my open-source repositories, but you can also read the hosted version on [Netlify](https://blueberrypy.netlify.app/).
+I'm currently maintaining my blog "BlueberryPy" which is esstentially one of my open-source repositories, but you are more than welcome to read the hosted version on [Netlify](https://blueberrypy.netlify.app/).
 
-- 🔭 I’m currently working on competitions of data / AI categories
+- 🔭 I’m currently working on competitions/hackathons in data / AI categories
 - 🌱 I’m currently learning AI Agent techniques and applications, besides I'm attempting to pick up Rust
-- 👯 I’m currently (July 2025) looking for team members to compete in [AdventureX 2025](https://adventure-x.org)
+- 👯 I’m currently looking for teammates to participate in future
 - 📫 How to reach me:
   - Bluesky: [@linzeyang.bsky.social](https://bsky.app/profile/linzeyang.bsky.social)
   - Mastodon: [@zeyanglin@mastodon.online](https://mastodon.online/@zeyanglin)
+  - RedNote (XiaoHongshu/小红书): [蓝莓派](https://www.xiaohongshu.com/user/profile/6528b2dd000000002a01a6f5)
 - ⚡ Languages:
   - Programming: Python
   - Speaking: Chinese Mandarin / English
